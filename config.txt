@@ -1,0 +1,6 @@
+owner=511361081894109229
+prefix=1
+game=playingByDAMN|1Play
+stayinchannel=true
+songinstatus=false
+token=NTM4NDI1NTg1MDY0NDc2Njcy.Dyzndw.UaEpUTFMf0pp4WsCYrUf9Izg9Pw
